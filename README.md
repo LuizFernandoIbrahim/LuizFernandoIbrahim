@@ -1,4 +1,4 @@
-### Olá Dev, seja bem vindo. Me chamo Luiz Fernando Ibrahim!🤙
+### Hi, Dev! I'm a Full-Stack Developer from Brazil. My name is Luiz Fernando and you can call me Nando! 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-cabral-875bab197/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nandoibrahim/)
@@ -16,4 +16,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoIbrahim&layout=compact)
 </div> 
 
-#### Apaixonado pela tecnologia, entusiasta do desenvolvimento e sempre em busca de desafios. Entre em contato comigo e vamos desenvolver juntos!
+#### Passionate about technology, a development enthusiast, and always looking for new challenges. Get in touch with me, and let's develop together! 🚀
